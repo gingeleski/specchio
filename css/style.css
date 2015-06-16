@@ -27,6 +27,11 @@ div.video, #photos {
     visibility: hidden;
 }
 
+video, canvas {
+    width: 70% !important;
+    height: auto !important;
+}
+
 #video {
     margin: auto;
 }
